@@ -46,21 +46,15 @@ As fontes abaixo foram selecionadas por sua confiabilidade acadêmica e estabili
 
 ---
 
-## 📘 Stanford Encyclopedia of Philosophy — Language
-
-🔗 https://plato.stanford.edu/entries/language/
-
----
-
 ## 🎓 MIT OpenCourseWare — Introduction to Linguistics
 
-🔗 https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2012/
+🔗 https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/
 
 ---
 
 ## 🧬 Smithsonian Institution — Human Origins & Language
 
-🔗 https://humanorigins.si.edu/human-characteristics/tools-language
+🔗 https://humanorigins.si.edu/human-characteristics
 
 ---
 
